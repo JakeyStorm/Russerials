@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17416094352",
+    "firebase_url": "https://russerials-2d003.firebaseio.com",
+    "project_id": "russerials-2d003",
+    "storage_bucket": "russerials-2d003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17416094352:android:5a83d1ad68d9f8a7b90e15",
+        "android_client_info": {
+          "package_name": "com.example.russerials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17416094352-rl25tihlldsmprl82o4qrjdlc1l8kmv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3CzgKW1DWi4ELDDhSyE5jBIRRtDw3FXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17416094352-rl25tihlldsmprl82o4qrjdlc1l8kmv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
